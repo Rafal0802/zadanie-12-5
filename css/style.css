@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1DA1F2;
+  color: #fff;
+  text-align: center;
+}
+
+body h1 {
+  margin: 80px auto;
+  font-size: 60px;
+  font-weight: normal;
+}
+
+body h2 {
+  margin: 40px auto;
+  font-weight: normal;
+}
+
+body h3 {
+  margin: 20px auto;
+  font-weight: normal;
+}
+
+body button, body a {
+  display: block;
+  width: 300px;
+  font-size: 20px;
+  padding: 7px;
+  border: 1px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+body button {
+  margin: 100px auto 50px;
+  background-color: #1DA1F2;
+}
+
+body a {
+  margin: 20px auto;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
